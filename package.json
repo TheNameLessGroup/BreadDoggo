@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "discord.js": "^12.5.3"
-  }
+  },
+  "name": "breaddoggo",
+  "version": "1.0.0",
+  "description": "Source code of Bread Doggo owo",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNameLessGroup/BreadDoggo.git"
+  },
+  "keywords": [
+    "Bread",
+    "Doggo"
+  ],
+  "author": "Alexander Nom Nom#1622",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheNameLessGroup/BreadDoggo/issues"
+  },
+  "homepage": "https://github.com/TheNameLessGroup/BreadDoggo#readme"
 }
